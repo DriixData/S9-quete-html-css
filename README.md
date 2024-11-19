@@ -7,4 +7,4 @@ L'objectif était simple : concevoir une petite page web pour mettre en pratique
 
 ### Preview 👇
 
-![Screen du projet](/chemin/access/image.jpg "Aperçu du projet")
+![Screen du projet](https://github.com/DriixData/S9-quete-html-css/blob/main/screen_projet.png?raw=true "Aperçu du projet")
